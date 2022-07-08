@@ -1,4 +1,4 @@
-name: denniskinyanjui/public-web-react
+name: denniskinyanjui/public-web-docusaurus
 
 on:
   push:
